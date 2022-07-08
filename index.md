@@ -11,9 +11,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Research
+- green stormwater infrastructure
+- wastewater-based epidemiology
+- water, climate, and health
+
+## Teaching 
+### Laboratory
 
 - Bulleted
 - List
